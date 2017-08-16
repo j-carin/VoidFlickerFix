@@ -3,4 +3,4 @@ Forge Coremod that fixes the void flicker at y=62 on Arcane and other servers by
 
 Some code used from prplz with permission
 
-##Download: http://2pi.pw/mods/voidflickerfix
+Download: http://2pi.pw/mods/voidflickerfix
